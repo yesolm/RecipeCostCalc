@@ -1,0 +1,8 @@
+D:\GitHub\RecipeCostCalc\src\RecipeCostCalc.Core\bin\Debug\netcoreapp3.1\RecipeCostCalc.Core.deps.json
+D:\GitHub\RecipeCostCalc\src\RecipeCostCalc.Core\bin\Debug\netcoreapp3.1\RecipeCostCalc.Core.dll
+D:\GitHub\RecipeCostCalc\src\RecipeCostCalc.Core\bin\Debug\netcoreapp3.1\RecipeCostCalc.Core.pdb
+D:\GitHub\RecipeCostCalc\src\RecipeCostCalc.Core\obj\Debug\netcoreapp3.1\RecipeCostCalc.Core.AssemblyInfoInputs.cache
+D:\GitHub\RecipeCostCalc\src\RecipeCostCalc.Core\obj\Debug\netcoreapp3.1\RecipeCostCalc.Core.AssemblyInfo.cs
+D:\GitHub\RecipeCostCalc\src\RecipeCostCalc.Core\obj\Debug\netcoreapp3.1\RecipeCostCalc.Core.csproj.CoreCompileInputs.cache
+D:\GitHub\RecipeCostCalc\src\RecipeCostCalc.Core\obj\Debug\netcoreapp3.1\RecipeCostCalc.Core.dll
+D:\GitHub\RecipeCostCalc\src\RecipeCostCalc.Core\obj\Debug\netcoreapp3.1\RecipeCostCalc.Core.pdb

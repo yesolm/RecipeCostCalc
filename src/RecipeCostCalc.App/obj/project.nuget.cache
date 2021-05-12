@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "19inAkShogyX0zWx/ESYZKAj9LIqY9YU/TOqUJF+AVxHR5tXDFee9MPTWD4u24jF7bLQ9+b+jeXkZDgSB8JtgQ==",
+  "success": true,
+  "projectFilePath": "D:\\GitHub\\RecipeCostCalc\\src\\RecipeCostCalc.App\\RecipeCostCalc.App.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yesol\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.15\\microsoft.extensions.configuration.3.1.15.nupkg.sha512",
+    "C:\\Users\\yesol\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.15\\microsoft.extensions.configuration.abstractions.3.1.15.nupkg.sha512",
+    "C:\\Users\\yesol\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.15\\microsoft.extensions.configuration.binder.3.1.15.nupkg.sha512",
+    "C:\\Users\\yesol\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\3.1.15\\microsoft.extensions.configuration.fileextensions.3.1.15.nupkg.sha512",
+    "C:\\Users\\yesol\\.nuget\\packages\\microsoft.extensions.configuration.json\\3.1.15\\microsoft.extensions.configuration.json.3.1.15.nupkg.sha512",
+    "C:\\Users\\yesol\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\3.1.15\\microsoft.extensions.fileproviders.abstractions.3.1.15.nupkg.sha512",
+    "C:\\Users\\yesol\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\3.1.15\\microsoft.extensions.fileproviders.physical.3.1.15.nupkg.sha512",
+    "C:\\Users\\yesol\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\3.1.15\\microsoft.extensions.filesystemglobbing.3.1.15.nupkg.sha512",
+    "C:\\Users\\yesol\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.15\\microsoft.extensions.primitives.3.1.15.nupkg.sha512"
+  ],
+  "logs": []
+}
